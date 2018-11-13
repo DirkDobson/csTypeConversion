@@ -6,9 +6,16 @@ namespace csTypeConversion
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            byte b = (byte)i;
-            Console.WriteLine(b);
+            try
+            {
+                var number = "1324";
+                byte b = Convert.ToByte(number);
+                Console.WriteLine(number);
+            }
+            catch(Exception)
+            {
+                Console.WriteLine("The Number could not be converted to a byte");
+            }
         }
     }
 }
