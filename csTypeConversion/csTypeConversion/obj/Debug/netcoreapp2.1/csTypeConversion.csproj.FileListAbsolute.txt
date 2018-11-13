@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/bin/Debug/netcoreapp2.1/csTypeConversion.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/bin/Debug/netcoreapp2.1/csTypeConversion.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/bin/Debug/netcoreapp2.1/csTypeConversion.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/bin/Debug/netcoreapp2.1/csTypeConversion.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/bin/Debug/netcoreapp2.1/csTypeConversion.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/c#TypeConversions/csTypeConversion/csTypeConversion/obj/Debug/netcoreapp2.1/csTypeConversion.pdb
