@@ -8,9 +8,9 @@ namespace csTypeConversion
         {
             try
             {
-                var number = "1324";
-                byte b = Convert.ToByte(number);
-                Console.WriteLine(number);
+                string str = "true";
+                bool b = Convert.ToBoolean(str);
+                Console.WriteLine(b);
             }
             catch(Exception)
             {
